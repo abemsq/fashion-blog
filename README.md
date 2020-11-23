@@ -8,7 +8,7 @@ Use your new HTML knowledge to create the underlying structure of the blog. Make
 
 You can view a completed project and see how it compares to your work!
 
-![image]()
+![image](https://github.com/abemsq/fashion-blog/blob/master/image.png)
 
 
 ## HTML
